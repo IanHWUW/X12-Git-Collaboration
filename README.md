@@ -19,5 +19,9 @@ This is the third change on the document. I am getting familiar with git clone, 
 ...the fourth commit is always the worst...
 
 
+# I repeat this is the final commit!!! I have done it four times all alone :(
+# :)      :)      :)      :)      :)      :)      :)      :)      :)    :)
+
+Goodbye!
 
 
