@@ -12,6 +12,12 @@ I am making another change now. This is change # 2!!!
 
 This is the third change on the document. I am getting familiar with git clone, add ., commit -m "whatever", and git push...
 
-...Slowly I am losing motivation
+...Slowly I am losing motivation...
+
+...It's getting dark out here...
+
+...the fourth commit is always the worst...
+
+
 
 
